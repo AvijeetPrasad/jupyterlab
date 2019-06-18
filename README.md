@@ -5,8 +5,8 @@
 This launches a minimal version of the JupyterLab as a means to have a common environment for all computations.
 
 Currently supported:
-Python
-C/C++
+Python,
+C/C++,
 Fortran
 
 We can add more packages to it in due time.
