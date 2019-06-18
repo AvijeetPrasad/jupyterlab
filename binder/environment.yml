@@ -19,3 +19,9 @@ dependencies:
 - sunpy
 # C++ Kernel
 - xeus-cling
+# IDL Kernel
+- idl_kernel
+# Octave Kernel
+- IOctave
+# Fortran Kernel
+- Coarray-Fortran
